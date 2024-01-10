@@ -1,2 +1,3 @@
 # gitdemo
-This was created for demo in the live Youtube session.
+This is my first git Repository.
+by - Hamza
